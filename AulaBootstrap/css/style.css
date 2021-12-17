@@ -1,0 +1,24 @@
+body{
+    font: 20px serif;
+}
+.navbar{
+    background-color:#FFB1F4;
+}
+.quem-somos{
+    background-color: #AAD6FC;
+    color:black;
+
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.servico{
+    background-color:#FFD393;
+}
+.bg-footer{
+     background-color: #BEFFCF;
+     
+     color: black;
+}
